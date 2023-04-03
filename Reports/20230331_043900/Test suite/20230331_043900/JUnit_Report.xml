@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Test suite" time="72.715" tests="3" failures="0" errors="0">
+   <testsuite name="Test suite" tests="3" failures="0" errors="0" time="72.715" skipped="0" timestamp="2023-03-31 04:39:07" hostname="Ice - host.docker.internal" id="Test Suites/Test suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Ice\\git\\Project\\Reports\\20230331_043900\\Test suite\\20230331_043900"/>
+         <property name="logFiles" value="C:\\Users\\Ice\\git\\Project\\Reports\\20230331_043900\\Test suite\\20230331_043900\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Ice - host.docker.internal"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.5.5.208"/>
+         <property name="browser" value="Chrome 111.0.0.0"/>
+         <property name="hostAddress" value="172.20.10.8"/>
+         <property name="sessionId" value="300744fa63f487f958b42f10f6741719"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TC1" time="11.102" classname="Test Cases/TC1" status="PASSED">
+         <system-out><![CDATA[2023-03-31 04:39:07 - [TEST_CASE][PASSED] - Test Cases/TC1: Test Cases/TC1
+
+2023-03-31 04:39:08 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-03-31 04:39:08 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-03-31 04:39:08 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-03-31 04:39:11 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-03-31 04:39:11 - [TEST_STEP][PASSED] - navigateToUrl("http://3.92.56.166:8085/"): Navigate to 'http://3.92.56.166:8085/' successfully
+
+2023-03-31 04:39:13 - [MESSAGE][PASSED] - Navigate to 'http://3.92.56.166:8085/' successfully
+
+2023-03-31 04:39:13 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Homepage/button_Login for staff")): Object: 'Object Repository/Page_Homepage/button_Login for staff' is clicked on
+
+2023-03-31 04:39:15 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Homepage/button_Login for staff' is clicked on
+
+2023-03-31 04:39:15 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Signin Template  Bootstrap v5.3/input_Sign In_floatingInput"), "z@gmail,.com"): Text 'z@gmail,.com' is set on object 'Object Repository/Page_Signin Template  Bootstrap v5.3/input_Sign In_floatingInput'
+
+2023-03-31 04:39:15 - [MESSAGE][PASSED] - Text 'z@gmail,.com' is set on object 'Object Repository/Page_Signin Template  Bootstrap v5.3/input_Sign In_floatingInput'
+
+2023-03-31 04:39:15 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_Signin Template  Bootstrap v5.3/input_Email address_floatingPassword"), "XA8EWhIfeOQ="): Text ****** has been set on object 'Object Repository/Page_Signin Template  Bootstrap v5.3/input_Email address_floatingPassword'
+
+2023-03-31 04:39:16 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_Signin Template  Bootstrap v5.3/input_Email address_floatingPassword'
+
+2023-03-31 04:39:16 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Signin Template  Bootstrap v5.3/button_Sign in")): Object: 'Object Repository/Page_Signin Template  Bootstrap v5.3/button_Sign in' is clicked on
+
+2023-03-31 04:39:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Signin Template  Bootstrap v5.3/button_Sign in' is clicked on
+
+2023-03-31 04:39:17 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-03-31 04:39:18 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC3" time="33.114" classname="Test Cases/TC3" status="PASSED">
+         <system-out><![CDATA[2023-03-31 04:39:18 - [TEST_CASE][PASSED] - Test Cases/TC3: Test Cases/TC3
+
+2023-03-31 04:39:19 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-03-31 04:39:19 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-03-31 04:39:19 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-03-31 04:39:20 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-03-31 04:39:20 - [TEST_STEP][PASSED] - navigateToUrl("http://3.92.56.166:8085/"): Navigate to 'http://3.92.56.166:8085/' successfully
+
+2023-03-31 04:39:21 - [MESSAGE][PASSED] - Navigate to 'http://3.92.56.166:8085/' successfully
+
+2023-03-31 04:39:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Homepage/a_HOME")): Object: 'Object Repository/Page_Homepage/a_HOME' is clicked on
+
+2023-03-31 04:39:23 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Homepage/a_HOME' is clicked on
+
+2023-03-31 04:39:23 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Homepage/a_MENU")): Object: 'Object Repository/Page_Homepage/a_MENU' is clicked on
+
+2023-03-31 04:39:33 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Homepage/a_MENU' is clicked on
+
+2023-03-31 04:39:33 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Bootstrap demo/a_SHIPPING")): Object: 'Object Repository/Page_Bootstrap demo/a_SHIPPING' is clicked on
+
+2023-03-31 04:39:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bootstrap demo/a_SHIPPING' is clicked on
+
+2023-03-31 04:39:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Shipping/a_LOCATION")): Object: 'Object Repository/Page_Shipping/a_LOCATION' is clicked on
+
+2023-03-31 04:39:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Shipping/a_LOCATION' is clicked on
+
+2023-03-31 04:39:37 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_LOCATION/a_MENU")): Object: 'Object Repository/Page_LOCATION/a_MENU' is clicked on
+
+2023-03-31 04:39:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_LOCATION/a_MENU' is clicked on
+
+2023-03-31 04:39:38 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Bootstrap demo/div_Specials Menu    Dessert    Sushi    Drinks")): Object: 'Object Repository/Page_Bootstrap demo/div_Specials Menu    Dessert    Sushi    Drinks' is clicked on
+
+2023-03-31 04:39:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bootstrap demo/div_Specials Menu    Dessert    Sushi    Drinks' is clicked on
+
+2023-03-31 04:39:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Bootstrap demo/a_Specials Menu")): Object: 'Object Repository/Page_Bootstrap demo/a_Specials Menu' is clicked on
+
+2023-03-31 04:39:45 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bootstrap demo/a_Specials Menu' is clicked on
+
+2023-03-31 04:39:45 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Bootstrap demo/a_Sushi")): Object: 'Object Repository/Page_Bootstrap demo/a_Sushi' is clicked on
+
+2023-03-31 04:39:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bootstrap demo/a_Sushi' is clicked on
+
+2023-03-31 04:39:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Bootstrap demo/a_Drinks")): Object: 'Object Repository/Page_Bootstrap demo/a_Drinks' is clicked on
+
+2023-03-31 04:39:51 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bootstrap demo/a_Drinks' is clicked on
+
+2023-03-31 04:39:51 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-03-31 04:39:51 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/TC2" time="28.185" classname="Test Cases/TC2" status="PASSED">
+         <system-out><![CDATA[2023-03-31 04:39:52 - [TEST_CASE][PASSED] - Test Cases/TC2: Test Cases/TC2
+
+2023-03-31 04:39:52 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-03-31 04:39:52 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-03-31 04:39:52 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-03-31 04:39:53 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-03-31 04:39:53 - [TEST_STEP][PASSED] - navigateToUrl("http://3.92.56.166:8085/"): Navigate to 'http://3.92.56.166:8085/' successfully
+
+2023-03-31 04:39:54 - [MESSAGE][PASSED] - Navigate to 'http://3.92.56.166:8085/' successfully
+
+2023-03-31 04:39:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Homepage/a_MENU")): Object: 'Object Repository/Page_Homepage/a_MENU' is clicked on
+
+2023-03-31 04:40:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Homepage/a_MENU' is clicked on
+
+2023-03-31 04:40:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Bootstrap demo/button_Add to Shipping")): Object: 'Object Repository/Page_Bootstrap demo/button_Add to Shipping' is clicked on
+
+2023-03-31 04:40:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bootstrap demo/button_Add to Shipping' is clicked on
+
+2023-03-31 04:40:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Shipping/button_Go Back To Menu")): Object: 'Object Repository/Page_Shipping/button_Go Back To Menu' is clicked on
+
+2023-03-31 04:40:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Shipping/button_Go Back To Menu' is clicked on
+
+2023-03-31 04:40:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Bootstrap demo/a_Sushi")): Object: 'Object Repository/Page_Bootstrap demo/a_Sushi' is clicked on
+
+2023-03-31 04:40:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bootstrap demo/a_Sushi' is clicked on
+
+2023-03-31 04:40:14 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Bootstrap demo/button_Add to Shipping")): Object: 'Object Repository/Page_Bootstrap demo/button_Add to Shipping' is clicked on
+
+2023-03-31 04:40:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Bootstrap demo/button_Add to Shipping' is clicked on
+
+2023-03-31 04:40:14 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Shipping/input_Name_name"), "watcharit"): Text 'watcharit' is set on object 'Object Repository/Page_Shipping/input_Name_name'
+
+2023-03-31 04:40:16 - [MESSAGE][PASSED] - Text 'watcharit' is set on object 'Object Repository/Page_Shipping/input_Name_name'
+
+2023-03-31 04:40:16 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Shipping/input_Email_email"), "Run34047@gmail.com"): Text 'Run34047@gmail.com' is set on object 'Object Repository/Page_Shipping/input_Email_email'
+
+2023-03-31 04:40:16 - [MESSAGE][PASSED] - Text 'Run34047@gmail.com' is set on object 'Object Repository/Page_Shipping/input_Email_email'
+
+2023-03-31 04:40:16 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Shipping/input_Address_address"), "Tarntipp"): Text 'Tarntipp' is set on object 'Object Repository/Page_Shipping/input_Address_address'
+
+2023-03-31 04:40:17 - [MESSAGE][PASSED] - Text 'Tarntipp' is set on object 'Object Repository/Page_Shipping/input_Address_address'
+
+2023-03-31 04:40:17 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Shipping/input_Please enter your shipping address_w-_7afb23")): Object: 'Object Repository/Page_Shipping/input_Please enter your shipping address_w-_7afb23' is clicked on
+
+2023-03-31 04:40:19 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Shipping/input_Please enter your shipping address_w-_7afb23' is clicked on
+
+2023-03-31 04:40:19 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-03-31 04:40:20 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-03-31 04:39:07 - [TEST_SUITE][PASSED] - Test suite: Test Cases/TC2]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

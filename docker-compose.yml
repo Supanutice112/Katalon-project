@@ -1,0 +1,6 @@
+version: '3.3'
+services:
+  project:
+    image: supanuticeza/devoppj:latest
+    ports:
+      - "8085:3000"

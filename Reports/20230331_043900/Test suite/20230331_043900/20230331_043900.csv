@@ -1,0 +1,39 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test suite,Chrome 111.0.0.0,,,2023-03-31 04:39:07,2023-03-31 04:40:20,1m - 12.715s,PASSED
+,,,,,,,
+Test Cases/TC1,Chrome 111.0.0.0,,,2023-03-31 04:39:07,2023-03-31 04:39:18,11.102s,PASSED
+"openBrowser("""")",Chrome 111.0.0.0,,,2023-03-31 04:39:08,2023-03-31 04:39:11,3.483s,PASSED
+"navigateToUrl(""http://3.92.56.166:8085/"")",Chrome 111.0.0.0,,,2023-03-31 04:39:11,2023-03-31 04:39:13,2.337s,PASSED
+"click(findTestObject(""Object Repository/Page_Homepage/button_Login for staff""))",Chrome 111.0.0.0,,,2023-03-31 04:39:13,2023-03-31 04:39:15,1.103s,PASSED
+"setText(findTestObject(""Object Repository/Page_Signin Template  Bootstrap v5.3/input_Sign In_floatingInput""), ""z@gmail,.com"")",Chrome 111.0.0.0,,,2023-03-31 04:39:15,2023-03-31 04:39:15,0.845s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_Signin Template  Bootstrap v5.3/input_Email address_floatingPassword""), ""XA8EWhIfeOQ="")",Chrome 111.0.0.0,,,2023-03-31 04:39:15,2023-03-31 04:39:16,0.443s,PASSED
+"click(findTestObject(""Object Repository/Page_Signin Template  Bootstrap v5.3/button_Sign in""))",Chrome 111.0.0.0,,,2023-03-31 04:39:16,2023-03-31 04:39:17,1.613s,PASSED
+closeBrowser(),Chrome 111.0.0.0,,,2023-03-31 04:39:17,2023-03-31 04:39:18,0.884s,PASSED
+,,,,,,,
+Test Cases/TC3,Chrome 111.0.0.0,,,2023-03-31 04:39:18,2023-03-31 04:39:51,33.114s,PASSED
+"openBrowser("""")",Chrome 111.0.0.0,,,2023-03-31 04:39:19,2023-03-31 04:39:20,1.167s,PASSED
+"navigateToUrl(""http://3.92.56.166:8085/"")",Chrome 111.0.0.0,,,2023-03-31 04:39:20,2023-03-31 04:39:21,1.391s,PASSED
+"click(findTestObject(""Object Repository/Page_Homepage/a_HOME""))",Chrome 111.0.0.0,,,2023-03-31 04:39:21,2023-03-31 04:39:23,1.324s,PASSED
+"click(findTestObject(""Object Repository/Page_Homepage/a_MENU""))",Chrome 111.0.0.0,,,2023-03-31 04:39:23,2023-03-31 04:39:33,10.539s,PASSED
+"click(findTestObject(""Object Repository/Page_Bootstrap demo/a_SHIPPING""))",Chrome 111.0.0.0,,,2023-03-31 04:39:33,2023-03-31 04:39:34,1.402s,PASSED
+"click(findTestObject(""Object Repository/Page_Shipping/a_LOCATION""))",Chrome 111.0.0.0,,,2023-03-31 04:39:34,2023-03-31 04:39:37,2.210s,PASSED
+"click(findTestObject(""Object Repository/Page_LOCATION/a_MENU""))",Chrome 111.0.0.0,,,2023-03-31 04:39:37,2023-03-31 04:39:38,1.178s,PASSED
+"click(findTestObject(""Object Repository/Page_Bootstrap demo/div_Specials Menu    Dessert    Sushi    Drinks""))",Chrome 111.0.0.0,,,2023-03-31 04:39:38,2023-03-31 04:39:44,6.073s,PASSED
+"click(findTestObject(""Object Repository/Page_Bootstrap demo/a_Specials Menu""))",Chrome 111.0.0.0,,,2023-03-31 04:39:44,2023-03-31 04:39:45,1.497s,PASSED
+"click(findTestObject(""Object Repository/Page_Bootstrap demo/a_Sushi""))",Chrome 111.0.0.0,,,2023-03-31 04:39:45,2023-03-31 04:39:46,1.045s,PASSED
+"click(findTestObject(""Object Repository/Page_Bootstrap demo/a_Drinks""))",Chrome 111.0.0.0,,,2023-03-31 04:39:46,2023-03-31 04:39:51,4.104s,PASSED
+closeBrowser(),Chrome 111.0.0.0,,,2023-03-31 04:39:51,2023-03-31 04:39:51,0.917s,PASSED
+,,,,,,,
+Test Cases/TC2,Chrome 111.0.0.0,,,2023-03-31 04:39:52,2023-03-31 04:40:20,28.185s,PASSED
+"openBrowser("""")",Chrome 111.0.0.0,,,2023-03-31 04:39:52,2023-03-31 04:39:53,1.194s,PASSED
+"navigateToUrl(""http://3.92.56.166:8085/"")",Chrome 111.0.0.0,,,2023-03-31 04:39:53,2023-03-31 04:39:54,1.430s,PASSED
+"click(findTestObject(""Object Repository/Page_Homepage/a_MENU""))",Chrome 111.0.0.0,,,2023-03-31 04:39:54,2023-03-31 04:40:01,6.993s,PASSED
+"click(findTestObject(""Object Repository/Page_Bootstrap demo/button_Add to Shipping""))",Chrome 111.0.0.0,,,2023-03-31 04:40:01,2023-03-31 04:40:02,0.339s,PASSED
+"click(findTestObject(""Object Repository/Page_Shipping/button_Go Back To Menu""))",Chrome 111.0.0.0,,,2023-03-31 04:40:02,2023-03-31 04:40:04,2.153s,PASSED
+"click(findTestObject(""Object Repository/Page_Bootstrap demo/a_Sushi""))",Chrome 111.0.0.0,,,2023-03-31 04:40:04,2023-03-31 04:40:14,9.610s,PASSED
+"click(findTestObject(""Object Repository/Page_Bootstrap demo/button_Add to Shipping""))",Chrome 111.0.0.0,,,2023-03-31 04:40:14,2023-03-31 04:40:14,0.346s,PASSED
+"setText(findTestObject(""Object Repository/Page_Shipping/input_Name_name""), ""watcharit"")",Chrome 111.0.0.0,,,2023-03-31 04:40:14,2023-03-31 04:40:16,1.789s,PASSED
+"setText(findTestObject(""Object Repository/Page_Shipping/input_Email_email""), ""Run34047@gmail.com"")",Chrome 111.0.0.0,,,2023-03-31 04:40:16,2023-03-31 04:40:16,0.719s,PASSED
+"setText(findTestObject(""Object Repository/Page_Shipping/input_Address_address""), ""Tarntipp"")",Chrome 111.0.0.0,,,2023-03-31 04:40:16,2023-03-31 04:40:17,0.668s,PASSED
+"click(findTestObject(""Object Repository/Page_Shipping/input_Please enter your shipping address_w-_7afb23""))",Chrome 111.0.0.0,,,2023-03-31 04:40:17,2023-03-31 04:40:19,1.956s,PASSED
+closeBrowser(),Chrome 111.0.0.0,,,2023-03-31 04:40:19,2023-03-31 04:40:20,0.638s,PASSED

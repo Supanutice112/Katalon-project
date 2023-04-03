@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add to Shipping</name>
+   <tag></tag>
+   <elementGuidId>b4ba72c4-1d57-4f39-9389-20686656e2f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='submit'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>270e3ad9-af6d-47cc-b024-1ecfd56ebeb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>alert('The product has been successfully added to the cart.')</value>
+      <webElementGuid>921d7673-b1a7-476a-b950-40e0633abead</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>e6dace7d-14aa-4966-b85e-f11e932b7f4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-warning</value>
+      <webElementGuid>2e4ca7f1-5dda-48ef-98c0-792178907f95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Add to Shipping </value>
+      <webElementGuid>0c0eeb9b-5c32-40fc-b61b-de9622301096</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container1&quot;]/div[@class=&quot;rightbar&quot;]/div[@class=&quot;item-right&quot;]/form[1]/button[@class=&quot;btn btn-warning&quot;]</value>
+      <webElementGuid>0b2e7c45-6cfa-4931-976f-7e1d907a465b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='submit'])[3]</value>
+      <webElementGuid>b1f951f3-9c40-45dc-aac6-9bb71424a548</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This set is suitable for customers who come for 2 persons.This set have Akami Otoro Chutoro Salmon'])[1]/following::button[1]</value>
+      <webElementGuid>d8599047-9007-4edf-bb70-845d7173cf8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This set is suitable for customers who come for 2-3 persons.Have Sabaro Otoro Sakamoto Kataru'])[1]/preceding::button[1]</value>
+      <webElementGuid>03ae5e03-8177-499b-bfa1-02741f0ce64c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/form/button</value>
+      <webElementGuid>bbf820f1-d1fb-4fc7-88e5-95c71a221c64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = '  Add to Shipping ' or . = '  Add to Shipping ')]</value>
+      <webElementGuid>f535a683-c72a-48f4-844e-b69f96932eea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
